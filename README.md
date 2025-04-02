@@ -1,6 +1,6 @@
 # End-to-End AI Agent Chatbot with FastAPI, LangGraph, and LangChain
 
-![Project Logo](assets/logo.png)
+![Project Logo](assets/webmind.jpg)
 
 ## 🚀 Overview
 This project implements a robust, end-to-end **AI-powered chatbot** leveraging **FastAPI, LangGraph, and LangChain**. The chatbot is designed for intelligent conversation handling, contextual memory, and real-time responses.
